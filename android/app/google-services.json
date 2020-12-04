@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034836081350",
+    "firebase_url": "https://usm-tarea.firebaseio.com",
+    "project_id": "usm-tarea",
+    "storage_bucket": "usm-tarea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034836081350:android:3f2c087540ffd96be275c7",
+        "android_client_info": {
+          "package_name": "com.example.tarea_3_felipe_kriz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034836081350-s9h2p2cliv7cb9pcvpdm0aq6qo2leco4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ucFUWfohqc4_3gniEWumHpY4hB7peC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034836081350-s9h2p2cliv7cb9pcvpdm0aq6qo2leco4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
