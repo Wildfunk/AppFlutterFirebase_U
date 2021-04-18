@@ -1,6 +1,6 @@
-# tarea_3_diseño de aplicaciones móviles<br>
+# tarea_3_diseño de aplicaciones móviles/mobile app<br>
 Flutter + firebase
 
-Aplicación que consta de una conexión a firebase<br>
-Contiene distintos crud's para el manejo de los datos<br>
-Manejo de usuarios con inicio de sesión y registro de estos<br>
+Aplicación que consta de una conexión a firebase/mobile application with a firebase conecction<br>
+Contiene distintos crud's para el manejo de los datos/ contains differents crud's to manage the data<br>
+Manejo de usuarios con inicio de sesión y registro de estos/ login and register users with auth<br>
